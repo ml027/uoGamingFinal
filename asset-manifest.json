@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/uoGamingFinal/static/css/main.af189e06.css",
+    "main.js": "/uoGamingFinal/static/js/main.106e232a.js",
+    "static/js/787.3e6846ef.chunk.js": "/uoGamingFinal/static/js/787.3e6846ef.chunk.js",
+    "index.html": "/uoGamingFinal/index.html",
+    "main.af189e06.css.map": "/uoGamingFinal/static/css/main.af189e06.css.map",
+    "main.106e232a.js.map": "/uoGamingFinal/static/js/main.106e232a.js.map",
+    "787.3e6846ef.chunk.js.map": "/uoGamingFinal/static/js/787.3e6846ef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af189e06.css",
+    "static/js/main.106e232a.js"
+  ]
+}
