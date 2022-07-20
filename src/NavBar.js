@@ -2,7 +2,7 @@ import "./styles.css"
 export default function Navbar() {
   return (
     <nav className="nav">
-      <a href ="/uoGamingFinal" className="site-title">
+      <a href ="https://ml027.github.io/uoGamingFinal/" className="site-title">
         uoGaming
       </a>
       
